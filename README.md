@@ -1,3 +1,3 @@
-# landing page
+# Landing Page
 
-This is a rebuild of the landing page which is being described in `The Odin Project`'s Foundation Course.
+This is a realization of the landing page that serves as an exercise in the Foundation Course of `The Odin Project`.
