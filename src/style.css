@@ -5,6 +5,11 @@
     font-family: Roboto, sans-serif;
 }
 
+*:focus-visible {
+    border-radius: 4px;
+    outline: #f9faf8 solid 4px;
+}
+
 a {
     color: #e5e7eb;
     font-size: 18px;
@@ -160,7 +165,7 @@ p {
     font-weight: 700;
 }
 
-.outline {
+.outline:not(:focus-visible) {
     outline: #f9faf8 solid 2px;
 }
 
